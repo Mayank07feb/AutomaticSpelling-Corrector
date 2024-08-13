@@ -9,14 +9,6 @@ An intelligent React application that automatically corrects spelling errors in 
 - Responsive design for various devices
 - Built with React and modern web technologies
 
-## Demo
-
-[Link to live demo - if available]
-
-## Screenshots
-
-[Add screenshots of your application here]
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
